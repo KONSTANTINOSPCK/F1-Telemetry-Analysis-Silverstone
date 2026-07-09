@@ -20,3 +20,4 @@ The goal of this project is to demonstrate how data science techniques (time-ser
 1. Install the required dependencies:
    ```bash
    pip install fastf1 matplotlib pandas
+"Note: This project was developed as part of my portfolio transition into Motorsport Engineering and Data Analytics."
